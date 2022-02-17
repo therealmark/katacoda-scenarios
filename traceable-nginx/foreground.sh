@@ -1,3 +1,3 @@
 #/bin/bash
 
-pip install git@github.com:shloth/traceable-cli.git
+pip pip install git+https://github.com/shloth/traceable-cli
