@@ -30,6 +30,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "nginx:latest"
+    "imageid": "ubuntu:2004"
   }
 }
